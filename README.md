@@ -26,7 +26,7 @@ When their owner mysteriously disappears while making lunch for a friend, Anne a
 
 With help from the brilliant **Detective Crumbsworth**, they chase a mysterious criminal who keeps getting away. One day, he drops a paper with strange codes on it. As they decode the message, they uncover his identity and the location of his hidden base.
 
-Now they must travel through canals, across bridges, and deep into the city to rescue their owner.
+Now they must travel through canals, across bridges, and deep under the city to rescue their owner.
 
 ---
 
