@@ -24,7 +24,7 @@ Hamsterdam — a hamster city inspired by canals, bridges, tulips, and cozy caf�
 ## 🧩 Story
 When their owner mysteriously disappears while making lunch for a friend, Anne and Frank begin a daring investigation.
 
-With help from the brilliant **Detective Crumbsworth**, they chase a mysterious criminal who gets away evry time. One day, he drops a paper with strange codes on it. As they decode the message, they uncover his identity and the location of his hidden base.
+With help from the brilliant **Detective Crumbsworth**, they chase a mysterious criminal who gets away every time. One day, he drops a paper with strange codes on it. As they decode the message, they uncover his identity and the location of his hidden base.
 
 Now they must travel through canals, across bridges, and deep under the city to rescue their owner.
 
