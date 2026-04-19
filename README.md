@@ -1,3 +1,8 @@
+<img width="1024" height="1536" alt="1CA1EACB-2FF5-4AFB-87F4-B0C2D2715ADD" src="https://github.com/user-attachments/assets/f8637257-4cdb-4833-b388-0ff57e027c40" />
+
+
+
+
 # Hamsterdam 🐹
 
 **By Olivia Haddon (with parental supervision obvi)**
